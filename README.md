@@ -3,7 +3,7 @@
 A slow-pace, high-momentum character movement system built natively in Unreal Engine 5 using Enhanced Input and Blueprints. This framework focuses on fluid traversal mechanics, mutual state exclusion, and dynamic velocity transfers inspired by modern action platformer.
 
 <img width="640" height="360" alt="ezgif com-resize" src="https://github.com/user-attachments/assets/4ff7ecf8-260f-420d-b54b-6d118a655e14" />
-<img width="640" height="360" alt="2-ezgif com-resize" src="https://github.com/user-attachments/assets/2c3c659d-dfe2-430a-9436-752b528c266b" />
+<img width="640" height="360" alt="3-ezgif com-resize" src="https://github.com/user-attachments/assets/1335759e-a974-4471-aa95-8c90485cda3d" />
 
 
 ##  Core Features
