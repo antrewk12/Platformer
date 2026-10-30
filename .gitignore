@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Third-party Fab asset pack (Fab Standard License, not redistributable).
+# Add it to your project from Fab to open the levels. See README > Credits.
+/Content/KUBIKOS_3D_Cube_World/
